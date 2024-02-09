@@ -10,10 +10,13 @@ In a growth mindset, people believe that their most basic abilities can be devel
 3. I can always improve at something if I try
 ## Table of Contents 
 
-[Class 1](https://github.com/Ssanthoshp/reading-notes/blob/e785bad899eedee9af5e848da93f3cc9a0156512/Class%2001.md)
+[Class 1](https://github.com/Ssanthoshp/reading-notes/blob/d06f1f6c598b46f893e2dbbd0d7bf019c9fcaac5/Class%2001.md)
 
-[Class 2](https://github.com/Ssanthoshp/reading-notes/blob/e785bad899eedee9af5e848da93f3cc9a0156512/Class%2002.md) 
+[Class 2](https://github.com/Ssanthoshp/reading-notes/blob/d06f1f6c598b46f893e2dbbd0d7bf019c9fcaac5/Class%2002.md)
 
 [Class 3]()
 
 [Class 4]()
+
+
+https://github.com/Ssanthoshp/reading-notes/blob/d06f1f6c598b46f893e2dbbd0d7bf019c9fcaac5/Class%2001.md
