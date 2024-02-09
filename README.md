@@ -1,6 +1,6 @@
 # Reading Notes
 ## About Me
-My name is Ssanthoshp and I am from Oklahoma city.  I am from medical background trying to make a carrier change to programming. You can visit my beginner Github Page [Here](https://github.com/Ssanthoshp)
+My name is Ssanthoshp and I am from Oklahoma city.  I am from medical background trying to make a carrier change to programming. You can visit my beginner Github Page [here](https://github.com/Ssanthoshp)
 
 ![cute-coding-anime-girl-tee](https://github.com/Ssanthoshp/Ssanthoshp.github.io/assets/153047977/41a8a967-fe45-4726-9ace-0c5ed01c3061)
 ## Growth Mindset
