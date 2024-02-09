@@ -12,7 +12,7 @@ In a growth mindset, people believe that their most basic abilities can be devel
 
 [Class 1](https://github.com/Ssanthoshp/reading-notes/blob/1dfe7de24f3beaaa93b6944315f5f9d3dd08e9cf/Class%2001.md)
 
-[Class 2]()
+[Class 2](https://github.com/Ssanthoshp/reading-notes/blob/9c8310d82e11c81e95f66da0ee58709cf73957b2/Class%2002.md)
 
 [Class 3]()
 
