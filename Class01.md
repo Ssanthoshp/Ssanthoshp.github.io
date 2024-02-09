@@ -1,7 +1,9 @@
 # Markdown
 
 ## Contents
-1. What is Markdown?
+[1. What is Markdown?](#what-is-markdown)
+
+
 2. Why do we use Markdown?
 3. What symbol will create a heading in Markdown?
     - How many do you need to create the largest heading?
@@ -9,8 +11,8 @@
 4. When making text bold or italicized for emphasis, it is best practice to use which symbol?
 5. How do you create a link with Markdown?
 6. What are the three symbols you can use to create an unordered (bulleted) list with Markdown?
-## 1. What is Markdown?
-
+## What is Markdown?
+ 
 Markdown is a lightweight markup language that you can use to add formatting elements to plaintext text documents. Created by John Gruber in 2004, Markdown is now one of the world’s most popular markup languages.
 
 ## 2. Why do we use Markdown?
