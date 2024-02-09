@@ -9,3 +9,10 @@ In a growth mindset, people believe that their most basic abilities can be devel
 2. It’s ok if I fail, at least I learned something
 3. I can always improve at something if I try
 ## Table of Contents 
+[Class 1]()
+
+[Class 2]()
+
+[Class 3]()
+
+[Class 4]()
