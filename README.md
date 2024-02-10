@@ -21,8 +21,3 @@ In a growth mindset, people believe that their most basic abilities can be devel
 - [Programming with JavaScript]()
 - [Operators and Loops]()
 
-[Class 03](102/Class03.md)
-
-[Class 04]()
-
-
