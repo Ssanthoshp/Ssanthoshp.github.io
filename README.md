@@ -14,7 +14,7 @@ In a growth mindset, people believe that their most basic abilities can be devel
 
 [Class 02](./Class02.md)
 
-[Class 03]()
+[Class 03](./Class03.md)
 
 [Class 04]()
 
