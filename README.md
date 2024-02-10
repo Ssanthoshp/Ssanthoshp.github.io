@@ -12,7 +12,7 @@ In a growth mindset, people believe that their most basic abilities can be devel
 
 ### Code 102 - Intro to Software Development
 
-[Learning Markdown](./learningmarkdown.md)
+[Learning Markdown](./Learningmarkdown.md)
 
 [Class 02](./Class02.md)
 
