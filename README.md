@@ -10,6 +10,8 @@ In a growth mindset, people believe that their most basic abilities can be devel
 3. I can always improve at something if I try
 ## Table of Contents 
 
+### Code 102 - Intro to Software Development
+
 [Learning Markdown](./learningmarkdown.md)
 
 [Class 02](./Class02.md)
