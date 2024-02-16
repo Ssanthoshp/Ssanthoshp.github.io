@@ -1,6 +1,6 @@
 # Reading Notes
 ## About Me
-My name is Ssanthoshp and I am from Oklahoma city.  I am from medical background trying to make a carrier change to programming. You can visit my beginner Github Page [here](https://github.com/Ssanthoshp)
+My name is Ssanthoshp and I am from Moore.  I want to switch from my business background to software development. You can visit my beginner Github Page [here](https://github.com/Ssanthoshp)
 
 ## Growth Mindset
 In a growth mindset, people believe that their most basic abilities can be developed through dedication and hard work—brains and talent are just the starting point. This view creates a love of learning and a resilience that is essential for great accomplishment
