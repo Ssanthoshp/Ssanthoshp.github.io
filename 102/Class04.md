@@ -29,3 +29,13 @@ The HTML element is everything from the start tag to the end tag:
 
 '< p > My First Paragraph< /p >''
 
+## What is it called when you give an element extra information?
+
+
+Attributes contain extra information about the element that you don't want to appear in the actual content. Here, class is the attribute name and editor-note is the attribute value. The class attribute allows you to give the element a non-unique identifier that can be used to target it (and any other elements with the same class value) with style information and other things. Some attributes have no value, such as required.
+
+Attributes that set a value always have:
+
+A space between it and the element name (or the previous attribute, if the element already has one or more attributes).
+The attribute name followed by an equal sign.
+The attribute value wrapped by opening and closing quotation marks.
