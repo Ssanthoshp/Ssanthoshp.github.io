@@ -19,5 +19,5 @@ There are three ways of inserting a style sheet:
 ## Write an example of a CSS rule that would give all <p> elements red text.
 
 Here is an example of a CSS rule that would give all elements as red text 
-[Link](index.html) 
+[Link]([index.html](https://github.com/Ssanthoshp/hello-world/blob/b4a44e6f52715100d6c26184451e12c21d40ebe2/index.html)
 
