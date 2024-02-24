@@ -15,7 +15,7 @@ In a growth mindset, people believe that their most basic abilities can be devel
 - [The Coder's Computer](102/Class02.md)
 - [Revisions and the Cloud](102/Class03.md)
 - [Structure web pages with HTML](102/Class04.md)
-- [Design Web Pages with CSS]()
+- [Design Web Pages with CSS](102/Class05.md)
 - [Dynamic Web Pages with JavaScript]()
 - [Programming with JavaScript]()
 - [Operators and Loops]()
