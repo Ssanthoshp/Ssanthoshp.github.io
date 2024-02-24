@@ -19,4 +19,3 @@ In a growth mindset, people believe that their most basic abilities can be devel
 - [Dynamic Web Pages with JavaScript]()
 - [Programming with JavaScript]()
 - [Operators and Loops]()
-
