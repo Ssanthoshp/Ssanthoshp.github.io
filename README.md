@@ -17,5 +17,5 @@ In a growth mindset, people believe that their most basic abilities can be devel
 - [Structure web pages with HTML](102/Class04.md)
 - [Design Web Pages with CSS](102/Class05.md)
 - [Dynamic Web Pages with JavaScript](102/Class06.md)
-- [Programming with JavaScript]()
+- [Programming with JavaScript](102/Class07.md)
 - [Operators and Loops]()
